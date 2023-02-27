@@ -1,6 +1,6 @@
 ## Shibuya Comics WIP
 
-A flutter app hooked up to Firebase. Ased to share art and comics to other users in our community.
+A flutter app hooked up to Firebase. Used to share art and comics to other users in our community.
 
 # Still work in progress
 
